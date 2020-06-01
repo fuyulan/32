@@ -4,9 +4,9 @@ img{display:block;width:100%}
 
 
 section{position:relative;margin:0 auto;width:10rem;height:100%;overflow-y:auto;-webkit-overflow-scrolling:touch;background:rebeccapurple}
-.machine{width:8.77333rem;height:11.52rem;background:url(../machine_bg.png);background-size:cover;position:absolute;top:50%;left:50%;-webkit-transform:translate(-50%,-50%);transform:translate(-50%,-50%)}
+.machine{width:8.77333rem;height:11.52rem;background:url(https://demo.mycodes.net/gongju/laohujichoujiang/images/machine_bg.png);background-size:cover;position:absolute;top:50%;left:50%;-webkit-transform:translate(-50%,-50%);transform:translate(-50%,-50%)}
 .rotate_box{width:60%;margin:0 auto;padding-top:37%}
-.rotate_box dd{width:32%;height:3.46667rem;margin-right:2%;float:left;background:url(../prize.png);background-size:cover}
+.rotate_box dd{width:32%;height:3.46667rem;margin-right:2%;float:left;background:url(https://demo.mycodes.net/gongju/laohujichoujiang/images/prize.png);background-size:cover}
 .rotate_box dd:last-child{margin-right:0}
 .rotate_btn{width:.58667rem;height:1.78667rem;overflow:hidden;position:absolute;right:.32rem;bottom:6rem;transform-origin:center bottom}
 .btn_box{width:5.92rem;position:absolute;left:50%;margin-left:-2.96rem;bottom:2.61333rem}
